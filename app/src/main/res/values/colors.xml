@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Calculator Light Theme Colors -->
+    <color name="calc_bg">#FFFFFF</color>
+    <color name="calc_display_text">#000000</color>
+
+    <color name="btn_number_bg">#6200EE</color> <!-- Purple -->
+    <color name="btn_number_text">#FFFFFF</color>
+
+    <color name="btn_operator_bg">#3700B3</color> <!-- Dark Purple -->
+    <color name="btn_operator_text">#FFFFFF</color>
+
+    <color name="btn_action_bg">#BB86FC</color> <!-- Light Purple -->
+    <color name="btn_action_text">#000000</color>
+
+    <color name="btn_equal_bg">#03DAC5</color> <!-- Teal (standard contrast) -->
+    <color name="btn_equal_text">#000000</color>
+</resources>
